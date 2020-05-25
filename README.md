@@ -11,8 +11,9 @@ Collectables,
 
 Signposting
 
+Enemy AI
 
-Video link: https://www.youtube.com/watch?v=6FXk9ZfLC8k
+Updated Video link: https://www.youtube.com/watch?v=iU7BFuQTcKA
 <p align="center">
   <br>
 <img src="Gifs/HittingEnemies.gif">
@@ -22,5 +23,5 @@ Video link: https://www.youtube.com/watch?v=6FXk9ZfLC8k
   
 
 </p>
-  Video:
+Old Video:
 https://www.youtube.com/watch?v=UQyk6xi94N0
