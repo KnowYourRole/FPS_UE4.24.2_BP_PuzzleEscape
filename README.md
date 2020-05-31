@@ -11,5 +11,17 @@ Collectables,
 
 Signposting
 
-Video:
+Enemy AI
+
+Updated Video link: https://www.youtube.com/watch?v=iU7BFuQTcKA
+<p align="center">
+  <br>
+<img src="Gifs/HittingEnemies.gif">
+  <br></br>
+<img src="Gifs/RunningEnemy.gif">
+  <br></br>
+  
+
+</p>
+Old Video:
 https://www.youtube.com/watch?v=UQyk6xi94N0
